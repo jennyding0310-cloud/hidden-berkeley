@@ -17,8 +17,9 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+This guide is for people who are new to Berkeley and want to find useful campus resources. I added the Student Learning Center as a new resource using information from its official website: https://slc.berkeley.edu/.
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+https://jennyding0310-cloud.github.io/hidden-berkeley/
+I checked the Morrison Library page on the published website and compared it with the information in the CSV. I also checked the official UC Berkeley Library webpage to verify the access information. After updating the CSV and pushing the changes, I confirmed that the website displayed the updated resource information correctly.
